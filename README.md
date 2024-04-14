@@ -9,9 +9,9 @@
 ![Maurício's GitHub stats](https://github-readme-stats.vercel.app/api?username=mauricio-theodoro&show_icons=true&theme=radical)
 
 ## Sobre Mim:
-Aos meus 12 anos, a tecnologia já me fascinava, o que me fez nutrir uma paixão por computadores e me impulsionou a explorar diversos aspectos. Nessa jornada, mergulhei na criação e administração de servidores de jogos online como MuOnline, Tibia, Habbo Hotel e GunBound, adquirindo sólida experiência em ambientes como SQLServer 2000.
+Atualmente tenho 30 anos. E já aos meus 12 anos, a tecnologia já me fascinava, o que me fez nutrir uma paixão por computadores e me impulsionou a explorar diversos aspectos. Nesta jornada, mergulhei na criação e administração de servidores de jogos online como MuOnline, Tibia, Habbo Hotel e GunBound, adquirindo sólida experiência em ambientes como SQLServer 2000.
 
-Minha carreira profissional teve início na área fiscal, onde atuei como Analista Fiscal assim podendo aprimorar as minhas habilidades analíticas. porém, sempre fui apaixonado por tecnologia e programção, o que me motivou a buscar novas oportunidades de carreira.
+Minha carreira profissional teve início na área informatica, onde atuei como Vendedor/Tecnico de Informatica, assim pude ter uma grande experiêcia com montagem de hardware e intalação de sorfware. Também atuei bastante tempo como Análista Fiscal onde eu pude aprimorar minhas habilidades analíticas e capacidade de solucionar problemas. entretanto, sempre fui apaixonado por tecnologia e programção, o que me motivou a buscar novas oportunidades de carreira.
 
 Atualmente estou cursando Ciência da Computação no Centro Universitário Newton Paiva, dedicando-me integralmente à minha formação. Meu principal foco reside no estudo aprofundado da linguagem Java, buscando me aperfeiçoar cada vez mais.
 
