@@ -11,7 +11,7 @@
 ## Sobre Mim:
 Atualmente tenho 30 anos. E já aos meus 12 anos, a tecnologia já me fascinava, o que me fez nutrir uma paixão por computadores e me impulsionou a explorar diversos aspectos. Nesta jornada, mergulhei na criação e administração de servidores de jogos online como MuOnline, Tibia, Habbo Hotel e GunBound, adquirindo sólida experiência em ambientes como SQLServer 2000.
 
-Minha carreira profissional teve início na área informatica, onde atuei como Vendedor/Tecnico de Informatica, assim pude ter uma grande experiêcia com montagem de hardware e intalação de sorfware. Também atuei bastante tempo como Análista Fiscal onde eu pude aprimorar minhas habilidades analíticas e capacidade de solucionar problemas. entretanto, sempre fui apaixonado por tecnologia e programção, o que me motivou a buscar novas oportunidades de carreira.
+Minha carreira profissional teve início na área informatica, onde atuei como Vendedor/Tecnico de Informatica, assim pude ter uma grande experiêcia com montagem de hardware e intalação de sorfware. Também atuei bastante tempo como Análista Fiscal onde eu pude aprimorar minhas habilidades analíticas e capacidade de solucionar problemas. Trabalhei como Consultor Tecnológico da Samsung, o que me proprocionou um grande conhecimento em sorftware Android. Entretanto, sempre fui apaixonado por tecnologia e programção, o que me motivou a buscar novas oportunidades de carreira.
 
 Atualmente estou cursando Ciência da Computação no Centro Universitário Newton Paiva, dedicando-me integralmente à minha formação. Meu principal foco reside no estudo aprofundado da linguagem Java, buscando me aperfeiçoar cada vez mais.
 
@@ -29,5 +29,10 @@ Anseio por uma oportunidade de estágio que me permita mergulhar ainda mais no m
   <img align="center"  alt="python" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white"/>
   <img align="center"  alt="react" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
   <img align="center"  alt="react" src="https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white"/>
+  <img align="center"  alt="react" src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white"/>
+  <img align="center"  alt="react" src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"/>
+  <img align="center"  alt="react" src="https://img.shields.io/badge/Windows_XP-003399?style=for-the-badge&logo=windows-xp&logoColor=white"/>
+  <img align="center"  alt="react" src="https://img.shields.io/badge/Windows_95-008080?style=for-the-badge&logo=windows-95&logoColor=white"/>
+  
 
 </div>
