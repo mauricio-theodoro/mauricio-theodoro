@@ -11,11 +11,11 @@
 ## Sobre Mim:
 Aos meus 12 anos, a tecnologia já me fascinava, o que me fez nutrir uma paixão por computadores e me impulsionou a explorar diversos aspectos. Nessa jornada, mergulhei na criação e administração de servidores de jogos online como MuOnline, Tibia, Habbo Hotel e GunBound, adquirindo sólida experiência em ambientes como SQLServer 2000.
 
-Minha carreira profissional teve início na área fiscal, onde atuei como analista, aprimorando minhas habilidades analíticas. No entanto, a tecnologia sempre foi minha paixão, o que me motivou a buscar uma mudança de carreira para o desenvolvimento de software e áreas correlatas de TI.
+Minha carreira profissional teve início na área fiscal, onde atuei como Analista Fiscal assim podendo aprimorar as minhas habilidades analíticas. porém, sempre fui apaixonado por tecnologia e programção, o que me motivou a buscar novas oportunidades de carreira.
 
-Atualmente estou cursando Ciência da Computação no Centro Universitário Newton Paiva, dedicando-me integralmente à minha formação. Meu foco principal reside no estudo aprofundado da linguagem Java, buscando dominar suas nuances e aplicabilidades.
+Atualmente estou cursando Ciência da Computação no Centro Universitário Newton Paiva, dedicando-me integralmente à minha formação. Meu principal foco reside no estudo aprofundado da linguagem Java, buscando me aperfeiçoar acada vez mais.
 
-Anseio por uma oportunidade de estágio que me permita mergulhar ainda mais no mundo da tecnologia, contribuindo com meu entusiasmo e buscando constantemente desenvolver minhas habilidades em programação. Sou apaixonado por desafios e estou ansioso para aplicar meu conhecimento e experiência em um ambiente dinâmico e inovador.
+Anseio por uma oportunidade de estágio que me permita mergulhar ainda mais no mundo da tecnologia, Sou um profissional autodidata, dinâmico e analítico. Possuo grande paixão por desafios e me dedico a buscar soluções inovadoras para os problemas que surgem.
 
 ## Tecnológias que uso no meu dia:
 
