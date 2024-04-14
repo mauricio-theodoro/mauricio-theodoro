@@ -13,7 +13,7 @@ Aos meus 12 anos, a tecnologia já me fascinava, o que me fez nutrir uma paixão
 
 Minha carreira profissional teve início na área fiscal, onde atuei como Analista Fiscal assim podendo aprimorar as minhas habilidades analíticas. porém, sempre fui apaixonado por tecnologia e programção, o que me motivou a buscar novas oportunidades de carreira.
 
-Atualmente estou cursando Ciência da Computação no Centro Universitário Newton Paiva, dedicando-me integralmente à minha formação. Meu principal foco reside no estudo aprofundado da linguagem Java, buscando me aperfeiçoar acada vez mais.
+Atualmente estou cursando Ciência da Computação no Centro Universitário Newton Paiva, dedicando-me integralmente à minha formação. Meu principal foco reside no estudo aprofundado da linguagem Java, buscando me aperfeiçoar cada vez mais.
 
 Anseio por uma oportunidade de estágio que me permita mergulhar ainda mais no mundo da tecnologia, Sou um profissional autodidata, dinâmico e analítico. Possuo grande paixão por desafios e me dedico a buscar soluções inovadoras para os problemas que surgem.
 
