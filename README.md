@@ -2,7 +2,7 @@
 -----
 
 <div>
-<img align="center" alt="Header" src="https://github.com/mauricio-theodoro/tree/main/img/header.png?raw=true"/>
+<img align="center" alt="Header" src="https://github.com/mauricio-theodoro/mauricio-theodoro/blob/main/img/header.png?raw=true"/>
 </div>
 
 -----
