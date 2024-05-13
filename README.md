@@ -15,6 +15,19 @@
 
 ![Maurício's GitHub stats](https://github-readme-stats.vercel.app/api?username=mauricio-theodoro&show_icons=true&theme=radical)
 
+-----
+
+<img height="20" alt="GIF" src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/main/img/graphic.gif?raw=true"/>GitHub Stats:
+
+<div>
+<img align="right" alt="GitHub Details" width="420px" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mauricio-theodoro&theme=github_dark"/>
+<!--- <img alt="GitHub Commits" width="200px" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=mauricio-theodoro&theme=github_dark"/> -->
+<img alt="GitHub Stats" width="200px" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=mauricio-theodoro&theme=github_dark"/>
+<img alt="GitHub Top Langs" width="200px" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mauricio-theodoro&theme=github_dark"/>
+</div>
+
+-----
+
 ## Sobre Mim:
 Atualmente tenho 30 anos. E já aos meus 12 anos, a tecnologia já me fascinava, o que me fez nutrir uma paixão por computadores e me impulsionou a explorar diversos aspectos. Nesta jornada, mergulhei na criação e administração de servidores de jogos online como MuOnline, Tibia, Habbo Hotel e GunBound, adquirindo sólida experiência em ambientes como SQLServer 2000.
 
