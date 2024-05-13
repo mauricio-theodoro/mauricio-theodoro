@@ -25,9 +25,6 @@ Atualmente estou cursando Ciência da Computação no Centro Universitário Newt
 Anseio por uma oportunidade de estágio que me permita mergulhar ainda mais no mundo da tecnologia, Sou um profissional autodidata, dinâmico e analítico. Possuo grande paixão por desafios e me dedico a buscar soluções inovadoras para os problemas que surgem.
 
 -----
-<div>
-<img align="right" alt="GIF" src="https://github.com/mauricio-theodoro/mauricio-theodoro/blob/main/img/dev.gif?raw=true" width="340px" height="520px"/>
-</div>
 
 ## Tecnológias que uso no meu dia:
 
