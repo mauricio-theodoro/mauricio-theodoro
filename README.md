@@ -1,4 +1,11 @@
 ### Olá! Eu sou o Maurício Theodoro 🤙🏽.
+-----
+
+<div>
+<img align="center" alt="Header" src="https://github.com/mauricio-theodoro/tree/main/img/header.png?raw=true"/>
+</div>
+
+-----
 
 ## Redes Sociais:
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/maur%C3%ADcio-theodoro-98443598/)
