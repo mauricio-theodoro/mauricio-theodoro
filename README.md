@@ -23,7 +23,11 @@ Minha carreira profissional teve início na área informatica, onde atuei como V
 Atualmente estou cursando Ciência da Computação no Centro Universitário Newton Paiva, dedicando-me integralmente à minha formação. Meu principal foco reside no estudo aprofundado da linguagem Java, buscando me aperfeiçoar cada vez mais.
 
 Anseio por uma oportunidade de estágio que me permita mergulhar ainda mais no mundo da tecnologia, Sou um profissional autodidata, dinâmico e analítico. Possuo grande paixão por desafios e me dedico a buscar soluções inovadoras para os problemas que surgem.
-
+-----
+<div>
+<img align="right" alt="GIF" src="https://github.com/mauricio-theodoro/mauricio-theodoro/blob/main/img/dev.gif?raw=true" width="340px" height="520px"/>
+</div>
+-----
 ## Tecnológias que uso no meu dia:
 
 <div style="display: inline_block"><br/>
