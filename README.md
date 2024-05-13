@@ -60,6 +60,8 @@ Anseio por uma oportunidade de estágio que me permita mergulhar ainda mais no m
 </div>
 </div>
 
+<img alt="Profile visitors" src="https://komarev.com/ghpvc/?username=mauricio-theodoro"/>
+
 -----
 
 
