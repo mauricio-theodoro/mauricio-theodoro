@@ -42,7 +42,7 @@ Anseio por uma oportunidade de estágio que me permita mergulhar ainda mais no m
 <div>
 <div>
 <details>
-<summary><img height="20" alt="GIF" src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/main/img/spotify.gif?raw=true"/> Theodoro's Spotify Data</summary>
+<summary><img height="20" alt="GIF" src="https://github.com/mauricio-theodroo/mauricio-theodoro/blob/main/img/spotify.gif?raw=true"/> Theodoro's Spotify Data</summary>
 <img src="https://data-card-for-spotify.herokuapp.com/api/card?user_id=mauricioantonionetinho" alt="Data Card for Spotify">
 </details>
 </div>
@@ -54,7 +54,6 @@ Anseio por uma oportunidade de estágio que me permita mergulhar ainda mais no m
 <details>
 <summary>:headphones: :guitar: :drum:</summary>
 
-[Charlie Brown Jr. - Céu Azul Ao Vivo - Chegou Quem Faltava](https://github.com/joaopauloaramuni/joaopauloaramuni/assets/58268075/c6568311-54c8-4c00-aced-26aacd69f8a1)
 
 </details>
 </div>
