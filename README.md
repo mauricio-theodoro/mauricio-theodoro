@@ -13,17 +13,18 @@
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/mtheodoroneto/?igsh=bmUzZ28xZWVsZTRh)
 [![Whatsapp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5531994755000)
 
-![Maurício's GitHub stats](https://github-readme-stats.vercel.app/api?username=mauricio-theodoro&show_icons=true&theme=radical)
 
 -----
 
-<img height="20" alt="GIF" src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/main/img/graphic.gif?raw=true"/>GitHub Stats:
+<img height="20" alt="GIF" src="https://github.com/mauricio-theodoro/mauricio-theodoro/blob/main/img/graphic.gif?raw=true"/>GitHub Stats:
 
 <div>
+
 <img align="right" alt="GitHub Details" width="420px" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mauricio-theodoro&theme=github_dark"/>
 <!--- <img alt="GitHub Commits" width="200px" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=mauricio-theodoro&theme=github_dark"/> -->
 <img alt="GitHub Stats" width="200px" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=mauricio-theodoro&theme=github_dark"/>
 <img alt="GitHub Top Langs" width="200px" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mauricio-theodoro&theme=github_dark"/>
+![Maurício's GitHub stats](https://github-readme-stats.vercel.app/api?username=mauricio-theodoro&show_icons=true&theme=radical)
 </div>
 
 -----
