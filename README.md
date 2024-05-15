@@ -24,7 +24,6 @@
 <!--- <img alt="GitHub Commits" width="200px" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=mauricio-theodoro&theme=github_dark"/> -->
 <img alt="GitHub Stats" width="200px" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=mauricio-theodoro&theme=github_dark"/>
 <img alt="GitHub Top Langs" width="200px" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mauricio-theodoro&theme=github_dark"/>
-[![Maurício's GitHub stats](https://github-readme-stats.vercel.app/api?username=mauricio-theodoro&show_icons=true&theme=radical)
 </div>
 
 -----
