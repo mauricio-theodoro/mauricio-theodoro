@@ -30,7 +30,7 @@
 -----
 
 ## Sobre Mim:
-Atualmente tenho 30 anos. E já aos meus 12 anos, a tecnologia já me fascinava, o que me fez nutrir uma paixão por computadores e me impulsionou a explorar diversos aspectos. Nesta jornada, mergulhei na criação e administração de servidores de jogos online como MuOnline, Tibia, Habbo Hotel e GunBound, adquirindo sólida experiência em ambientes como SQLServer 2000.
+Atualmente tenho 30 anos. E já aos meus 12 anos, a tecnologia já me fascinava, o que me fez nutrir uma paixão por computadores e me impulsionou a explorar diversos aspectos.
 
 Minha carreira profissional teve início na área informatica, onde atuei como Vendedor/Tecnico de Informatica, assim pude ter uma grande experiêcia com montagem de hardware e intalação de sorfware. Também atuei bastante tempo como Análista Fiscal onde eu pude aprimorar minhas habilidades analíticas e capacidade de solucionar problemas. Trabalhei como Consultor Tecnológico da Samsung, o que me proprocionou um grande conhecimento em sorftware Android e à ajudar clientes a planejar e preparar soluções utilizando a tecnológia. Entretanto, sempre fui apaixonado por tecnologia e programção, o que me motivou a buscar novas oportunidades de carreira.
 
