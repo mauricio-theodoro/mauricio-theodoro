@@ -44,7 +44,7 @@ Anseio por uma oportunidade de estágio que me permita mergulhar ainda mais no m
 <div>
 <details>
 <summary><img height="20" alt="GIF" src="https://github.com/mauricio-theodoro/mauricio-theodoro/blob/main/img/spotify.gif?raw=true"/> Theodoro's Spotify Data</summary>
-<img src="https://data-card-for-spotify.herokuapp.com/api/card?user_id=mauricioantonionetinho" alt="Data Card for Spotify">
+<img src="https://data-card-for-spotify.herokuapp.com/api/card?user_id=mauricioantonionetinho&count=10" alt="Data Card for Spotify">
 </details>
 </div>
 <div>
@@ -53,7 +53,6 @@ Anseio por uma oportunidade de estágio que me permita mergulhar ainda mais no m
 </div>
 <div>
 <details>
-<summary>:headphones: :guitar: :drum:</summary>
 
 
 </details>
