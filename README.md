@@ -3,7 +3,6 @@
 ---
 
 <div align="center">
-  <img src="https://github.com/mauricio-theodoro/mauricio-theodoro/blob/main/img/header.png?raw=true" alt="Header do GitHub">
 </div>
 
 ---
