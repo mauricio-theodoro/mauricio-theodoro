@@ -1,12 +1,6 @@
 <h1>Olá! Bem-vindo ao meu perfil do GitHub! 🙌🏽</h1>
 <hr>
 
-<div align="center">
-  <img src="https://github.com/mauricio-theodoro/mauricio-theodoro/blob/main/img/header.png?raw=true" alt="Header do GitHub">
-</div>
-
-<hr>
-
 <h2>🌐 Minhas Redes Sociais:</h2>
 <p>
   <a href="https://www.linkedin.com/in/maur%C3%ADcio-theodoro-98443598/" target="_blank">
