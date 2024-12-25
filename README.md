@@ -3,7 +3,7 @@
 ---
 
 <div align="center">
-  <img src="https://github.com/mauricio-theodoro/mauricio-theodoro/blob/main/img/header.png?raw=true" alt="Header do GitHub">
+  <img src="https://github.com/mauricio-theodoro/mauricio-theodoro/blob/main/img/novo_header.png?raw=true" alt="Header do GitHub" width="800">
 </div>
 
 ---
@@ -62,9 +62,9 @@ Sou autodidata, dinâmico e apaixonado por resolver desafios com soluções cria
 ## 📊 Minhas Estatísticas no GitHub:
 
 <p>
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mauricio-theodoro&theme=github_dark" alt="Detalhes do Perfil">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=mauricio-theodoro&theme=github_dark" alt="Estatísticas">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mauricio-theodoro&theme=github_dark" alt="Linguagens Mais Usadas">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mauricio-theodoro&theme=github_dark" alt="Detalhes do Perfil" width="400">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=mauricio-theodoro&theme=github_dark" alt="Estatísticas" width="400">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mauricio-theodoro&theme=github_dark" alt="Linguagens Mais Usadas" width="400">
 </p>
 
 ---
@@ -72,6 +72,6 @@ Sou autodidata, dinâmico e apaixonado por resolver desafios com soluções cria
 ## 🎶 Minhas Preferências no Spotify:
 
 <p>
-  <img src="https://spotify-github-profile.vercel.app/api/view?uid=mauricioantonionetinho&cover_image=true&theme=default" alt="Spotify">
-  <img src="https://spotify-recently-played-readme.vercel.app/api?user=mauricioantonionetinho&count=10" alt="Spotify Recentemente Tocadas">
+  <img src="https://spotify-github-profile.vercel.app/api/view?uid=novo_uid_do_spotify&cover_image=true&theme=default" alt="Spotify" width="400">
+  <img src="https://spotify-recently-played-readme.vercel.app/api?user=novo_uid_do_spotify&count=10" alt="Spotify Recentemente Tocadas" width="400">
 </p>
