@@ -32,15 +32,6 @@
 
 ## 🔢 Sobre Mim
 
-Tenho 30 anos e sou apaixonado por tecnologia desde os meus 12 anos. Minha jornada profissional inclui experiências enriquecedoras em diferentes áreas, como:
-
-- **Vendedor/Técnico de Informática**: Montagem de hardware e instalação de software.
-- **Analista Fiscal de Contabilidade**: Gestão de obrigações fiscais, apuração de tributos, elaboração de relatórios fiscais e suporte em auditorias.
-- **Consultor Tecnológico Samsung**: Planejamento e implementação de soluções tecnológicas com foco em software Android.
-
-Atualmente, sou estudante de **Ciência da Computação** no Centro Universitário Newton Paiva, com foco em **Java**. Busco sempre me aperfeiçoar e aplicar meus conhecimentos em projetos que agreguem valor.
-
-Sou autodidata, dinâmico e apaixonado por resolver desafios com soluções criativas e inovadoras. Almejo oportunidades que me permitam crescer na área de tecnologia!
 
 ---
 
