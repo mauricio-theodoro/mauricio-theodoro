@@ -62,6 +62,6 @@
 ## 🎶 Minhas Preferências no Spotify:
 
 <p>
-  <img src="https://spotify-github-profile.vercel.app/api/view?uid=mauricioantonionetinho&cover_image=true&theme=default" alt="Spotify">
+  <img src="https://spotify-github-profile.vercel.app/api/view?uid=mauricioantonionetino&cover_image=true&theme=default" alt="Spotify">
   <img src="https://spotify-recently-played-readme.vercel.app/api?user=mauricioantonionetinho&count=10" alt="Spotify Recentemente Tocadas">
 </p>
