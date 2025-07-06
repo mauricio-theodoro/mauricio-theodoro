@@ -10,7 +10,7 @@
 ## 🌐 Minhas Redes Sociais:
 
 <p>
-  <a href="https://www.linkedin.com/in/maur%C3%ADcio-theodoro-98443598/" target="_blank">
+  <a href="https://www.linkedin.com/in/mauriciotheodoroneto/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
 </p>
